@@ -1,7 +1,7 @@
 # 🎬 Kaggle Cinema Audience Prediction
 
 ## 📌 Problem Statement
-The objective of this Kaggle competition is to predict cinema audience demand using features such as online bookings, offline bookings, theatre location, and other movie-related attributes. 
+The objective of this Kaggle competition is to predict cinema audience demand using features such as online bookings, offline bookings, theatre location, movie genre and other movie-related attributes. 
 
 ## 📂 Dataset
 The dataset is provided by Kaggle as part of the competition and is not included in this repository due to data usage policies.
@@ -36,8 +36,7 @@ The dataset is provided by Kaggle as part of the competition and is not included
 
 ## 📁 Repository Structure
 notebooks/    → Kaggle notebook  
-data/         → Dataset description (no raw data)  
-src/          → Model utilities (optional)  
+data/         → Dataset description (no raw data)    
 
 ## 📈 Key Learnings
 - Importance of feature engineering in demand prediction
