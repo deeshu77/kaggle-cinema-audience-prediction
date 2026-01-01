@@ -12,13 +12,13 @@ The dataset is provided by Kaggle as part of the competition and is not included
 3. Feature Engineering  
 4. Model Training & Evaluation 
 5. Hyperparameter Tuning
-6. Submission
+6. Final Submission & Validation
 
 ## 🤖 Models Used
 - Linear Regression (baseline)
 - Ridge Regressor
 - Lasso Regressor
-- XGBoost Regressor
+- XGBoost Regressor (**final model**)
 - LightGBM Regressor
 
 ## 📊 Evaluation Metric
